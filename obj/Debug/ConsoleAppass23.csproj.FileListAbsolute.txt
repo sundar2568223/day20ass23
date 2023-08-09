@@ -1,0 +1,11 @@
+C:\Users\yaram\OneDrive\Desktop\simply learn Phase-1\Day-20\ConsoleAppass23\ConsoleAppass23\bin\Debug\ConsoleAppass23.exe.config
+C:\Users\yaram\OneDrive\Desktop\simply learn Phase-1\Day-20\ConsoleAppass23\ConsoleAppass23\bin\Debug\ConsoleAppass23.exe
+C:\Users\yaram\OneDrive\Desktop\simply learn Phase-1\Day-20\ConsoleAppass23\ConsoleAppass23\bin\Debug\ConsoleAppass23.pdb
+C:\Users\yaram\OneDrive\Desktop\simply learn Phase-1\Day-20\ConsoleAppass23\ConsoleAppass23\bin\Debug\day20ass23.dll
+C:\Users\yaram\OneDrive\Desktop\simply learn Phase-1\Day-20\ConsoleAppass23\ConsoleAppass23\bin\Debug\day20ass23.pdb
+C:\Users\yaram\OneDrive\Desktop\simply learn Phase-1\Day-20\ConsoleAppass23\ConsoleAppass23\obj\Debug\ConsoleAppass23.csproj.AssemblyReference.cache
+C:\Users\yaram\OneDrive\Desktop\simply learn Phase-1\Day-20\ConsoleAppass23\ConsoleAppass23\obj\Debug\ConsoleAppass23.csproj.SuggestedBindingRedirects.cache
+C:\Users\yaram\OneDrive\Desktop\simply learn Phase-1\Day-20\ConsoleAppass23\ConsoleAppass23\obj\Debug\ConsoleAppass23.csproj.CoreCompileInputs.cache
+C:\Users\yaram\OneDrive\Desktop\simply learn Phase-1\Day-20\ConsoleAppass23\ConsoleAppass23\obj\Debug\ConsoleAppass23.csproj.CopyComplete
+C:\Users\yaram\OneDrive\Desktop\simply learn Phase-1\Day-20\ConsoleAppass23\ConsoleAppass23\obj\Debug\ConsoleAppass23.exe
+C:\Users\yaram\OneDrive\Desktop\simply learn Phase-1\Day-20\ConsoleAppass23\ConsoleAppass23\obj\Debug\ConsoleAppass23.pdb
